@@ -1,0 +1,66 @@
+{
+    "designOrthoSize": 0.0,
+    "designAspectRatio": 0.0,
+    "hasSpear": true,
+    "spear": {
+        "spearIndex": 0,
+        "position": {
+            "x": -0.20999999344348908,
+            "y": -3.009999990463257
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "gravityScale": 0.0
+    },
+    "enemySpears": [],
+    "characters": [
+        {
+            "characterIndex": 8,
+            "animationState": "Final/idle_jump_1",
+            "position": {
+                "x": -0.6919568777084351,
+                "y": 0.06816080957651138
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.11999999731779099,
+                "y": 0.11999999731779099
+            },
+            "gravityScale": 1.0,
+            "moveType": 1,
+            "usePhysicsFall": false,
+            "moveDistance": 0.0,
+            "moveDuration": 0.0,
+            "waitTime": 0.0,
+            "moveTargetPoint": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "spawnCount": 0,
+            "spawnRadius": 0.0,
+            "spawnForce": 0.0,
+            "childSizeMultiplier": 0.0,
+            "numberTeleport": 1,
+            "wizard1PointB": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ],
+    "obstacles": [],
+    "powerUps": [],
+    "decorObjects": [],
+    "groundSpriteShapes": [],
+    "mouseHoles": []
+}

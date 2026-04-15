@@ -1,0 +1,579 @@
+{
+    "designOrthoSize": 0.0,
+    "designAspectRatio": 0.0,
+    "hasSpear": true,
+    "spear": {
+        "spearIndex": 0,
+        "position": {
+            "x": -1.2899999618530274,
+            "y": 2.9000000953674318
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 270.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "gravityScale": 0.0
+    },
+    "enemySpears": [],
+    "characters": [
+        {
+            "characterIndex": 0,
+            "animationState": "Final/idle_jump_7",
+            "position": {
+                "x": -1.159999966621399,
+                "y": -1.75
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.11999999731779099,
+                "y": 0.11999999731779099
+            },
+            "gravityScale": 0.0,
+            "moveType": 0,
+            "usePhysicsFall": false,
+            "moveDistance": 0.0,
+            "moveDuration": 0.0,
+            "waitTime": 0.0,
+            "moveTargetPoint": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "spawnCount": 0,
+            "spawnRadius": 0.0,
+            "spawnForce": 0.0,
+            "childSizeMultiplier": 0.0,
+            "numberTeleport": 0,
+            "wizard1PointB": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "characterIndex": 0,
+            "animationState": "Final/idle_jump_7",
+            "position": {
+                "x": 1.2300000190734864,
+                "y": -1.590000033378601
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.11999999731779099,
+                "y": 0.11999999731779099
+            },
+            "gravityScale": 0.0,
+            "moveType": 0,
+            "usePhysicsFall": false,
+            "moveDistance": 0.0,
+            "moveDuration": 0.0,
+            "waitTime": 0.0,
+            "moveTargetPoint": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "spawnCount": 0,
+            "spawnRadius": 0.0,
+            "spawnForce": 0.0,
+            "childSizeMultiplier": 0.0,
+            "numberTeleport": 0,
+            "wizard1PointB": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ],
+    "obstacles": [
+        {
+            "obstacleIndex": 9,
+            "position": {
+                "x": 1.2599999904632569,
+                "y": -1.6699999570846558
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.6718502640724182,
+                "y": 0.5
+            },
+            "moveType": 0,
+            "moveDistance": 0.0,
+            "moveDuration": 0.0,
+            "waitTime": 0.0,
+            "gravityScale": 1.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0,
+            "ballId": 0,
+            "vehicalMoveMode": 0,
+            "vehicalPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "vehicalCurveHeight": 0.0,
+            "vehicalUsePhysicsFall": false,
+            "vehicalEnemyPosOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "obstacleIndex": 9,
+            "position": {
+                "x": -0.4399999976158142,
+                "y": 0.699999988079071
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 31.443994522094728
+            },
+            "scale": {
+                "x": 0.37362778186798098,
+                "y": 0.5
+            },
+            "moveType": 0,
+            "moveDistance": 0.0,
+            "moveDuration": 0.0,
+            "waitTime": 0.0,
+            "gravityScale": 1.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0,
+            "ballId": 0,
+            "vehicalMoveMode": 0,
+            "vehicalPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "vehicalCurveHeight": 0.0,
+            "vehicalUsePhysicsFall": false,
+            "vehicalEnemyPosOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "obstacleIndex": 5,
+            "position": {
+                "x": -1.25,
+                "y": 0.10999999940395355
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.4000000059604645,
+                "y": 0.4000000059604645
+            },
+            "moveType": 0,
+            "moveDistance": 0.0,
+            "moveDuration": 0.0,
+            "waitTime": 0.0,
+            "gravityScale": 0.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0,
+            "ballId": 0,
+            "vehicalMoveMode": 0,
+            "vehicalPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "vehicalCurveHeight": 0.0,
+            "vehicalUsePhysicsFall": false,
+            "vehicalEnemyPosOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "obstacleIndex": 9,
+            "position": {
+                "x": 1.3799999952316285,
+                "y": 0.7200000286102295
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 31.443994522094728
+            },
+            "scale": {
+                "x": 0.37362778186798098,
+                "y": 0.5
+            },
+            "moveType": 0,
+            "moveDistance": 0.0,
+            "moveDuration": 0.0,
+            "waitTime": 0.0,
+            "gravityScale": 1.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0,
+            "ballId": 0,
+            "vehicalMoveMode": 0,
+            "vehicalPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "vehicalCurveHeight": 0.0,
+            "vehicalUsePhysicsFall": false,
+            "vehicalEnemyPosOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "obstacleIndex": 9,
+            "position": {
+                "x": -2.180000066757202,
+                "y": 0.33000001311302187
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 31.443544387817384
+            },
+            "scale": {
+                "x": 0.6718502640724182,
+                "y": 0.5
+            },
+            "moveType": 0,
+            "moveDistance": 0.0,
+            "moveDuration": 0.0,
+            "waitTime": 0.0,
+            "gravityScale": 1.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0,
+            "ballId": 0,
+            "vehicalMoveMode": 0,
+            "vehicalPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "vehicalCurveHeight": 0.0,
+            "vehicalUsePhysicsFall": false,
+            "vehicalEnemyPosOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "obstacleIndex": 5,
+            "position": {
+                "x": 1.0399999618530274,
+                "y": 2.4100000858306886
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.4000000059604645,
+                "y": 0.4000000059604645
+            },
+            "moveType": 0,
+            "moveDistance": 0.0,
+            "moveDuration": 0.0,
+            "waitTime": 0.0,
+            "gravityScale": 0.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0,
+            "ballId": 0,
+            "vehicalMoveMode": 0,
+            "vehicalPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "vehicalCurveHeight": 0.0,
+            "vehicalUsePhysicsFall": false,
+            "vehicalEnemyPosOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "obstacleIndex": 9,
+            "position": {
+                "x": -1.25,
+                "y": -1.809999942779541
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.6718502640724182,
+                "y": 0.5
+            },
+            "moveType": 0,
+            "moveDistance": 0.0,
+            "moveDuration": 0.0,
+            "waitTime": 0.0,
+            "gravityScale": 1.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0,
+            "ballId": 0,
+            "vehicalMoveMode": 0,
+            "vehicalPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "vehicalCurveHeight": 0.0,
+            "vehicalUsePhysicsFall": false,
+            "vehicalEnemyPosOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ],
+    "powerUps": [],
+    "decorObjects": [],
+    "groundSpriteShapes": [],
+    "mouseHoles": []
+}

@@ -1,0 +1,12 @@
+# v1.2
+- Refactor code
+# v2.0
+- Add Settings Window
+# v2.0.1
+- Add Assembly Define
+# v4.0
+- Big API update and refactor code
+# v4.1
+- Add Support for Admob Collapsible Banner
+# v4.2
+- Add FTUE_new_user_install tracking

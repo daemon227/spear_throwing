@@ -1,0 +1,488 @@
+{
+    "designOrthoSize": 0.0,
+    "designAspectRatio": 0.0,
+    "hasSpear": true,
+    "spear": {
+        "spearIndex": 0,
+        "position": {
+            "x": -0.5600000023841858,
+            "y": 2.950000047683716
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 180.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "gravityScale": 0.0
+    },
+    "enemySpears": [],
+    "characters": [
+        {
+            "characterIndex": 2,
+            "animationState": "Final/idle_jump_1",
+            "position": {
+                "x": 1.1493947505950928,
+                "y": -3.775228977203369
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.12999999523162843,
+                "y": 0.12999999523162843
+            },
+            "gravityScale": 1.0,
+            "moveType": 3,
+            "usePhysicsFall": false,
+            "moveDistance": 3.0,
+            "moveDuration": 3.0,
+            "waitTime": 0.0,
+            "moveTargetPoint": {
+                "x": 1.289668083190918,
+                "y": -3.777238368988037
+            },
+            "spawnCount": 3,
+            "spawnRadius": 0.5,
+            "spawnForce": 3.0,
+            "childSizeMultiplier": 0.15000000596046449,
+            "numberTeleport": 0,
+            "wizard1PointB": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "characterIndex": 2,
+            "animationState": "Final/idle_jump_1",
+            "position": {
+                "x": -1.23554265499115,
+                "y": -3.8160572052001955
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.12999999523162843,
+                "y": 0.12999999523162843
+            },
+            "gravityScale": 1.0,
+            "moveType": 3,
+            "usePhysicsFall": false,
+            "moveDistance": 3.0,
+            "moveDuration": 3.0,
+            "waitTime": 0.0,
+            "moveTargetPoint": {
+                "x": -1.383581280708313,
+                "y": -3.8186841011047365
+            },
+            "spawnCount": 3,
+            "spawnRadius": 0.5,
+            "spawnForce": 3.0,
+            "childSizeMultiplier": 0.15000000596046449,
+            "numberTeleport": 0,
+            "wizard1PointB": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ],
+    "obstacles": [
+        {
+            "obstacleIndex": 5,
+            "position": {
+                "x": 1.5199999809265137,
+                "y": -0.9800000190734863
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.4000000059604645,
+                "y": 0.4000000059604645
+            },
+            "moveType": 0,
+            "moveDistance": 0.0,
+            "moveDuration": 0.0,
+            "waitTime": 0.0,
+            "gravityScale": 0.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0
+        },
+        {
+            "obstacleIndex": 6,
+            "position": {
+                "x": 0.788126528263092,
+                "y": -1.5399999618530274
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "moveType": 2,
+            "moveDistance": 2.0,
+            "moveDuration": 2.0,
+            "waitTime": 0.0,
+            "gravityScale": 1.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0
+        },
+        {
+            "obstacleIndex": 5,
+            "position": {
+                "x": -1.7000000476837159,
+                "y": 0.5799999833106995
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.4000000059604645,
+                "y": 0.4000000059604645
+            },
+            "moveType": 0,
+            "moveDistance": 0.0,
+            "moveDuration": 0.0,
+            "waitTime": 0.0,
+            "gravityScale": 0.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0
+        },
+        {
+            "obstacleIndex": 6,
+            "position": {
+                "x": -1.0790632963180543,
+                "y": -1.0299999713897706
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "moveType": 2,
+            "moveDistance": -1.0,
+            "moveDuration": 2.0,
+            "waitTime": 0.0,
+            "gravityScale": 1.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0
+        },
+        {
+            "obstacleIndex": 6,
+            "position": {
+                "x": 0.36906325817108157,
+                "y": 0.6000000238418579
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "moveType": 2,
+            "moveDistance": 1.0,
+            "moveDuration": 2.0,
+            "waitTime": 0.0,
+            "gravityScale": 1.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0
+        },
+        {
+            "obstacleIndex": 6,
+            "position": {
+                "x": 0.14187347888946534,
+                "y": 0.05999999865889549
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "moveType": 2,
+            "moveDistance": -2.0,
+            "moveDuration": 2.0,
+            "waitTime": 0.0,
+            "gravityScale": 1.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0
+        },
+        {
+            "obstacleIndex": 6,
+            "position": {
+                "x": -0.06281024217605591,
+                "y": -0.4294895827770233
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "moveType": 2,
+            "moveDistance": 3.0,
+            "moveDuration": 2.0,
+            "waitTime": 0.0,
+            "gravityScale": 1.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0
+        }
+    ],
+    "powerUps": [],
+    "decorObjects": [],
+    "groundSpriteShapes": [],
+    "mouseHoles": []
+}

@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91f118480dfaea546aab9042628dc540, type: 3}
+  m_Name: Pickle
+  m_EditorClassIdentifier: 
+  bloodEffectPrefab: {fileID: 60179286493874214, guid: 7d362add5dc00ff458b599076c7b7f1d, type: 3}
+  bloodEffectColor: {r: 0.14585619, g: 0.9056604, b: 0.012815925, a: 1}
+  burnEffectPrefab: {fileID: 8387506413694319490, guid: 6bc7306795bf1eb4f865b9b54cbde167, type: 3}
+  thunderEffectPrefab: {fileID: 5987384121153697482, guid: 0506d05ecaa99fa4c9d9665e0d6eba3c, type: 3}
+  soulPrefab: {fileID: 8753091599403753881, guid: 458307961485fb345b99eb749e9b6620, type: 3}
+  sliceVerticalPrefabs:
+  - {fileID: 6552644903341027293, guid: e4c1eea4be4184545ad689065e5674da, type: 3}
+  - {fileID: 2201980623292974551, guid: 7945a4a9c08586949921e0168e75e9fd, type: 3}
+  sliceHorizontalPrefabs:
+  - {fileID: 2093752543512922528, guid: dc0b057308ef0b04298ef011b57d5483, type: 3}
+  - {fileID: 5344742177927209820, guid: 8515c9741e20ca041af03e54867f813e, type: 3}
+  bodyMultiplier: 2
+  sliceDeadCharacterPrefabs:
+  - SkinID: Artist
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: c6c261b8ab21a8349b51998b70b1da8a, type: 3}
+    - {fileID: 21300000, guid: 0a89857b9e267ff43bdc06168a3d75e7, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: afbdc60416637c4449580617cad131db, type: 3}
+    - {fileID: 21300000, guid: 8254f11935f1f6c4088789afe35bdb17, type: 3}
+  - SkinID: Baby
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 90536173383e3b24f80c9e53351705f9, type: 3}
+    - {fileID: 21300000, guid: e55ca3711286c364796b368ac7f640bf, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 831036687f26eeb409b8f6cc1f73217f, type: 3}
+    - {fileID: 21300000, guid: 0a8862fc653fc824fbabe9f0966cdddd, type: 3}
+  - SkinID: Batman
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 76e3cfb82c9a5cc46820ad0148f20872, type: 3}
+    - {fileID: 21300000, guid: 23bafb5eb5c2e8247bfb4c63cfa08f3a, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 1bc17befee269a346aa3d415175d7c6e, type: 3}
+    - {fileID: 21300000, guid: 6df7de7da632c354cbf4b2ff176d0d0e, type: 3}
+  - SkinID: Bikini1
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 8d32437ddbe66f34497e100558c5d393, type: 3}
+    - {fileID: 21300000, guid: 8250ec2c481e867458a92e11cad9f426, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 6d1f0ef6f9db29a41844797bc68015d5, type: 3}
+    - {fileID: 21300000, guid: debf57f184454c5428b90cce8158a0bc, type: 3}
+  - SkinID: Bikini2
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 182cf302f06893a479918d2b0b7b95b3, type: 3}
+    - {fileID: 21300000, guid: 8d261b142a98c994991a6ce8a156737e, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: e09229257073e0b408b5e27d30e238c6, type: 3}
+    - {fileID: 21300000, guid: ad579f4982c6fc349888db03411ce068, type: 3}
+  - SkinID: Chef
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 4aadee4cb0852514bb260de1dfd8f9b3, type: 3}
+    - {fileID: 21300000, guid: 410f590e60ac71947871a80a4fac78de, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: bb0c6bdea63945441b292df17f427bae, type: 3}
+    - {fileID: 21300000, guid: d1979d74bb43601478a011ce308bab01, type: 3}
+  - SkinID: Cowboy
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 99188d3e6b0ba4d4199ceddd7ef66cce, type: 3}
+    - {fileID: 21300000, guid: 9079f0f7acf33e64fae44c80fc50bd1d, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 86157972ed7b65b4e9a739c522008a41, type: 3}
+    - {fileID: 21300000, guid: 2645adac1e3d0854cbbe3a0502236587, type: 3}
+  - SkinID: Darth Vader
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 992170a7a14145b4c8471b4b82512ded, type: 3}
+    - {fileID: 21300000, guid: e80629ffe28b840488b8da2f011406d0, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 4f3e6c56dcff6f849b055f90b199bde8, type: 3}
+    - {fileID: 21300000, guid: 7b31db35a5d6a0447af044223033e66b, type: 3}
+  - SkinID: Einstein
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 43676efda5ff9274ab1723c1e131d6c1, type: 3}
+    - {fileID: 21300000, guid: 631f44b316cf6144c8ff92459eadd4c1, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 270c70c0ba9a0914a9c9bbac689df48c, type: 3}
+    - {fileID: 21300000, guid: 8705f21d1a589c84488afad18570aa9f, type: 3}
+  - SkinID: Elsa
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 9985569c18bc282449874f43713b082a, type: 3}
+    - {fileID: 21300000, guid: 1be28235adebe8c41a1a6004d8e3d28d, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 8b057b9f772215248afa5e68176409da, type: 3}
+    - {fileID: 21300000, guid: 6141b415e42a51b46b0cb50f63b24bc2, type: 3}
+  - SkinID: Farmer
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: c8e0980db0c30214c8a73cab0c0d228c, type: 3}
+    - {fileID: 21300000, guid: b9431a8570dbe2a40a0d85a922adcca7, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: d4bad08f5e62ffb48a4ada713565a3c3, type: 3}
+    - {fileID: 21300000, guid: b8d45b124784361419ee25e4a28c6f4f, type: 3}
+  - SkinID: Hawaiian
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 93b4e37ec6aa43b429e429fc85bbc82c, type: 3}
+    - {fileID: 21300000, guid: bd74ac710664fda479258ae2f636bd6c, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: c847096e8980c3c46a42a8d54ee28c9c, type: 3}
+    - {fileID: 21300000, guid: f46e3783c36d8084e85a7f8d075b9c33, type: 3}
+  - SkinID: MCJS
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 14d18fd44461d51498c9de7dfa8c4d20, type: 3}
+    - {fileID: 21300000, guid: a989382759df60c49908a76de2337f0d, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 7841de30d5fc62c4a9443f2aecc5f3b1, type: 3}
+    - {fileID: 21300000, guid: b895a6beadf29924ca098e2c402ca69e, type: 3}
+  - SkinID: Messi
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 39e07d02358031f40a9e3f2ffc11e1d1, type: 3}
+    - {fileID: 21300000, guid: 91a8ef548d53dba46b2fa563a05d04ee, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: c3c142b06ca462847b40eca676190697, type: 3}
+    - {fileID: 21300000, guid: 793ba160bc4109541a5ffe234fbbea6f, type: 3}
+  - SkinID: Nasa
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 4c76c6a7505bcc141b1638a6fd8111ca, type: 3}
+    - {fileID: 21300000, guid: 8f4bd34523aa2d141b9e9475d3edadb5, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 8c1c775dfad8fd84bb78b70a2e5a1b0a, type: 3}
+    - {fileID: 21300000, guid: d8f7e6871f3302947bead67def18277a, type: 3}
+  - SkinID: Noel
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 161a97e015cf01b42a898d38e280c660, type: 3}
+    - {fileID: 21300000, guid: dd014c5b732ec1747ae048caa3683bc5, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 120c4a67b888c714f92fc9c194f692b5, type: 3}
+    - {fileID: 21300000, guid: 212f8ae666e9274488421adf6e6f8a1a, type: 3}
+  - SkinID: Nurse
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: adaed865e05b09e46a55f9f7a79e67b9, type: 3}
+    - {fileID: 21300000, guid: 721682013de9d904ea393d2178f5aa8b, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 87e9cda8857aeee439180afe28f3ad52, type: 3}
+    - {fileID: 21300000, guid: 3ca968dd4f2c6734d96bd8534329cd5e, type: 3}
+  - SkinID: Pajamas
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 8cbbf170116c55b46a83550df036f694, type: 3}
+    - {fileID: 21300000, guid: 6cf5e818346bb5d49b26484b8a4bb12a, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 731e74aa8f547e145852ee4090bf3148, type: 3}
+    - {fileID: 21300000, guid: 682c3d6e35f30e84b84c0f232a03954e, type: 3}
+  - SkinID: Police
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 9ab86cec9dc404a4ab383b8a1ba54b2c, type: 3}
+    - {fileID: 21300000, guid: ea8b574baf488aa43945f910eb720bc6, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 99a02a117eb5faf4fb495aecdeb0d91b, type: 3}
+    - {fileID: 21300000, guid: 1e5f70e0de5ee2649975bce6ec5650ad, type: 3}
+  - SkinID: Ronaldo
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 5f6bf9638cf7e2c40b23c7f97c63ce55, type: 3}
+    - {fileID: 21300000, guid: 167bbba8c91702140944f34ff6d5cfa2, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 758ea64b5c5e47049bd9c581abec2cdc, type: 3}
+    - {fileID: 21300000, guid: 6daa6da3a55a95e49ad3297fd285a635, type: 3}
+  - SkinID: Samba
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 700f8a44d06a7954bb08a4868ddcb867, type: 3}
+    - {fileID: 21300000, guid: 5d5b60987c3e76c4aa30864fe1bbb3ea, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: e70890858972ad7418642eea50cb1b0b, type: 3}
+    - {fileID: 21300000, guid: 5bda576a2f43d6d429eaa4215100792d, type: 3}
+  - SkinID: Songoku
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 0a841ce91878a024997ef654ff26ac9c, type: 3}
+    - {fileID: 21300000, guid: 99bb48eb841d40f408a9fe9d1a3b325c, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: d36cf51b2dcebc545926c238a7efcc0f, type: 3}
+    - {fileID: 21300000, guid: b2e06a96460a91a41a924d5d3bb23721, type: 3}
+  - SkinID: Sparrow
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: ea37ce4f7ba401f48b9133ae226808b6, type: 3}
+    - {fileID: 21300000, guid: 84a2d9e0aa9ec544583e1e9072e1c2a2, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 6af413b01e4db2948af96d5a69372518, type: 3}
+    - {fileID: 21300000, guid: 299d34d4f51dcfa4091f36737faadda7, type: 3}
+  - SkinID: Spiderman
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: dfd4ac8bd8f3a1543820f45d9e78d6dc, type: 3}
+    - {fileID: 21300000, guid: 1a837dbd9f8d1224bad819ecf9f919b5, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: c9bc08d3ff27cd8408269b65b5fc821a, type: 3}
+    - {fileID: 21300000, guid: f54dad6fb12cda54392065ccde9ca265, type: 3}
+  - SkinID: Sup
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: fad898747893e8a4f994f6f963981a74, type: 3}
+    - {fileID: 21300000, guid: 39db2fc2b04db9d45818b8ea2ada287e, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 79af455ac5b83af479be9f43ffba96aa, type: 3}
+    - {fileID: 21300000, guid: 361c8887650827f41b9b22583b6a1653, type: 3}
+  - SkinID: Vegeta
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 94f0ddf6f6dd50749b0e987079522a8a, type: 3}
+    - {fileID: 21300000, guid: 6755a86f1ceda064783a98a3a7c34a75, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 10d558d11e1fbe14caeea0ebf3084beb, type: 3}
+    - {fileID: 21300000, guid: 25a21c3a44bc7f344960176f0d7e8734, type: 3}
+  - SkinID: Gym
+    sliceVerticalPrefabs:
+    - {fileID: 21300000, guid: 3e14700e4f238fb489e545356b88301d, type: 3}
+    - {fileID: 21300000, guid: 5d4382a70d994d84eb061eb7641672c2, type: 3}
+    sliceHorizontalPrefabs:
+    - {fileID: 21300000, guid: 5f9ff22720d9714409b0b227c8b5d2d8, type: 3}
+    - {fileID: 21300000, guid: 110da0609ef493e4bac8261f90e5df8d, type: 3}

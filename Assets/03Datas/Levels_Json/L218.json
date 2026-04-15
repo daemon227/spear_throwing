@@ -1,0 +1,98 @@
+{
+    "designOrthoSize": 0.0,
+    "designAspectRatio": 0.0,
+    "hasSpear": true,
+    "spear": {
+        "spearIndex": 0,
+        "position": {
+            "x": -0.05000000074505806,
+            "y": -3.0299999713897707
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "gravityScale": 0.0
+    },
+    "enemySpears": [
+        {
+            "spearIndex": 2,
+            "position": {
+                "x": -1.399999976158142,
+                "y": -0.6600000262260437
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 295.81195068359377
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "gravityScale": 0.0
+        },
+        {
+            "spearIndex": 2,
+            "position": {
+                "x": 1.340000033378601,
+                "y": -1.25
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 261.84228515625
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "gravityScale": 0.0
+        },
+        {
+            "spearIndex": 2,
+            "position": {
+                "x": 1.309999942779541,
+                "y": 1.309999942779541
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 261.84228515625
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "gravityScale": 0.0
+        },
+        {
+            "spearIndex": 2,
+            "position": {
+                "x": -1.5,
+                "y": 1.7899999618530274
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 303.70513916015627
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "gravityScale": 0.0
+        }
+    ],
+    "characters": [],
+    "obstacles": [],
+    "powerUps": [],
+    "decorObjects": [],
+    "groundSpriteShapes": [],
+    "mouseHoles": []
+}

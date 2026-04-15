@@ -1,0 +1,297 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5167488798843447882
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5167488798843447924}
+  - component: {fileID: 5167488798843447925}
+  m_Layer: 0
+  m_Name: FirebaseInitializer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5167488798843447924
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5167488798843447882}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5167488799193310379}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5167488798843447925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5167488798843447882}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a14dc4fa33531a45823af021b7718f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _enableRemoteSync: 1
+--- !u!1 &5167488799193310382
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5167488799193310379}
+  - component: {fileID: 5167488799193310376}
+  - component: {fileID: 5167488799193310377}
+  - component: {fileID: 5120771785746030776}
+  m_Layer: 0
+  m_Name: SDK
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5167488799193310379
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5167488799193310382}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5167488798843447924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5167488799193310376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5167488799193310382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87e909f8ef9d74ac5a2332d47318713c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _autoInitialization: 0
+--- !u!114 &5167488799193310377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5167488799193310382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b63ab8cb50b1f4c27943a7e2e14129a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5120771785746030776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5167488799193310382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 578dc06982057484187f1d3da8189165, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LifeConfig:
+    MaxLife: 5
+    CooldownSecs: 1200
+    PlayCost: 1
+    RefillPrice: 600
+  AdminTool: 1
+  GoldWins: 0a000000140000001e000000
+  LevelShowHome: 4
+  RevivePrice: 600
+  ExtraTimeRevive: 45
+  SmokeComboRequire: 5
+  ShinyBonusCombo: 1
+  ShinyBonusTime: 10
+  ShelfShuffleCount: 5
+  SmokeDelayMin: 5
+  SmokeDelayMax: 10
+  MarinateSpeed: 0.33
+  OverheatDuration: 30
+  LevelSet: Levels
+  ElementUnlocks: 
+  AdsConfig:
+    Banner:
+      Enable: 1
+    Interstitial:
+      Enable: 1
+      Day: 2
+      Level: 6
+      Cooldown: 180
+  LevelListConfig:
+    Levels: []
+  ShopIAPConfig:
+    CoinFree:
+      Value: 80
+      Cooldown: 86400
+    Groups:
+    - Name: 
+      GroupType: 0
+      Packs:
+      - Id: com.food.sort.puzzle.starter_pack
+        Name: Starter Pack
+        PackType: 1
+        PackIcon: 0
+        Icon: 0
+        BuyLimited: 1
+        Rewards:
+        - Type: 0
+          Value: 2000
+        - Type: 1
+          Value: 3600
+        - Type: 3
+          Value: 1
+        - Type: 4
+          Value: 1
+        - Type: 5
+          Value: 1
+        - Type: 6
+          Value: 1
+      - Id: com.food.sort.puzzle.no_ads
+        Name: No Ads
+        PackType: 3
+        PackIcon: 0
+        Icon: 0
+        BuyLimited: 1
+        Rewards:
+        - Type: 0
+          Value: 2500
+        - Type: 2
+          Value: 1
+    - Name: Combo Pack
+      GroupType: 0
+      Packs:
+      - Id: com.food.sort.puzzle.normal_pack
+        Name: Normal Pack
+        PackType: 0
+        PackIcon: 0
+        Icon: 0
+        BuyLimited: 999
+        Rewards:
+        - Type: 0
+          Value: 1600
+        - Type: 3
+          Value: 2
+        - Type: 4
+          Value: 2
+        - Type: 5
+          Value: 2
+        - Type: 6
+          Value: 2
+        - Type: 1
+          Value: 21600
+      - Id: com.food.sort.puzzle.medium_pack
+        Name: Medium Pack
+        PackType: 0
+        PackIcon: 1
+        Icon: 0
+        BuyLimited: 999
+        Rewards:
+        - Type: 0
+          Value: 5500
+        - Type: 3
+          Value: 4
+        - Type: 4
+          Value: 4
+        - Type: 5
+          Value: 4
+        - Type: 6
+          Value: 4
+        - Type: 1
+          Value: 43200
+      - Id: com.food.sort.puzzle.large_pack
+        Name: Large Pack
+        PackType: 0
+        PackIcon: 2
+        Icon: 0
+        BuyLimited: 999
+        Rewards:
+        - Type: 0
+          Value: 12000
+        - Type: 3
+          Value: 6
+        - Type: 4
+          Value: 6
+        - Type: 5
+          Value: 6
+        - Type: 6
+          Value: 6
+        - Type: 1
+          Value: 86400
+    - Name: Coin Pack
+      GroupType: 1
+      Packs:
+      - Id: com.food.sort.puzzle.coin_pack_1
+        Name: Coin 1
+        PackType: 2
+        PackIcon: 0
+        Icon: 1
+        BuyLimited: 999
+        Rewards:
+        - Type: 0
+          Value: 1000
+      - Id: com.food.sort.puzzle.coin_pack_2
+        Name: Coin 2
+        PackType: 2
+        PackIcon: 0
+        Icon: 2
+        BuyLimited: 999
+        Rewards:
+        - Type: 0
+          Value: 2500
+      - Id: com.food.sort.puzzle.coin_pack_03
+        Name: Coin 3
+        PackType: 2
+        PackIcon: 0
+        Icon: 3
+        BuyLimited: 999
+        Rewards:
+        - Type: 0
+          Value: 5500
+      - Id: com.food.sort.puzzle.coin_pack_04
+        Name: Coin 4
+        PackType: 2
+        PackIcon: 0
+        Icon: 4
+        BuyLimited: 999
+        Rewards:
+        - Type: 0
+          Value: 12000
+      - Id: com.food.sort.puzzle.coin_pack_5
+        Name: Coin 5
+        PackType: 2
+        PackIcon: 0
+        Icon: 5
+        BuyLimited: 999
+        Rewards:
+        - Type: 0
+          Value: 25000
+  MediationDataSegment: 
+  _autoInitialization: 0

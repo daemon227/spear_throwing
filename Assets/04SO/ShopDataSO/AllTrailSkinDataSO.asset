@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: def3ea12d50c03644b8bda61a0c5038e, type: 3}
+  m_Name: AllTrailSkinDataSO
+  m_EditorClassIdentifier: 
+  allTrailSkinDataList:
+  - skinName: Normal
+    skinNameID: 1
+    skinSprite: {fileID: 21300000, guid: 9c5ffba9409afa343a955973250d7edb, type: 3}
+    trailPrefab: {fileID: 5174873650479695347, guid: 0cb353a9782c8ac4a8d778d33b974873, type: 3}
+    skinType: 1
+    isNew: 0
+  - skinName: Money
+    skinNameID: 2
+    skinSprite: {fileID: 21300000, guid: 44c090ef6f08cb4428a3e8ab3abe2fae, type: 3}
+    trailPrefab: {fileID: 5030988924290096510, guid: 5d2af78d6b20fc84aa0a1006db9b28e3, type: 3}
+    skinType: 1
+    isNew: 0
+  - skinName: Heart
+    skinNameID: 3
+    skinSprite: {fileID: 21300000, guid: a22d7600e39960548a8c9a57e6c0b058, type: 3}
+    trailPrefab: {fileID: 885138056855016082, guid: f7c439789ccb6504abcee994f682392b, type: 3}
+    skinType: 1
+    isNew: 0
+  - skinName: Sparkle
+    skinNameID: 4
+    skinSprite: {fileID: 21300000, guid: d64dd2b29be030b45bfeb01fd8515b2d, type: 3}
+    trailPrefab: {fileID: 3287954926112843224, guid: 0f24c3de7e665694db90d269b63ad845, type: 3}
+    skinType: 0
+    isNew: 0
+  - skinName: Rainbow
+    skinNameID: 5
+    skinSprite: {fileID: 21300000, guid: 19dc4bafe1f09b14a8d31b0f2b76024c, type: 3}
+    trailPrefab: {fileID: 9088073899200854790, guid: 2e30599a6d5766947a90bcae84bde16a, type: 3}
+    skinType: 0
+    isNew: 0
+  - skinName: Fire
+    skinNameID: 6
+    skinSprite: {fileID: 21300000, guid: 60c48eaeb5f0439439f950f83d0d6183, type: 3}
+    trailPrefab: {fileID: 2861331215705565084, guid: 4d7e31ae5d547d145939197cbb0b7fb9, type: 3}
+    skinType: 2
+    isNew: 1
+  - skinName: Poseidon
+    skinNameID: 7
+    skinSprite: {fileID: 21300000, guid: feb74463cf98e9e4b8f0b7d33d67d5e3, type: 3}
+    trailPrefab: {fileID: 7024666433528823842, guid: 617c38b96eaa27e48bd27855e92b0127, type: 3}
+    skinType: 1
+    isNew: 1
+  - skinName: Art
+    skinNameID: 8
+    skinSprite: {fileID: 21300000, guid: 205f1a854ae0412428cf101590f1824f, type: 3}
+    trailPrefab: {fileID: 3640464315043973962, guid: a3f78fa6fcea82e4592f6e2ec660274c, type: 3}
+    skinType: 0
+    isNew: 0
+  - skinName: Dark
+    skinNameID: 9
+    skinSprite: {fileID: 21300000, guid: 6014c20dba6f27e4c98d4f96532f65a5, type: 3}
+    trailPrefab: {fileID: 1447507397564430888, guid: 3fa4a2dafbf6d9947bc15591badb58c7, type: 3}
+    skinType: 2
+    isNew: 1
+  - skinName: Royal
+    skinNameID: 10
+    skinSprite: {fileID: 21300000, guid: 8752b314da3348f4eb3d20810504c5db, type: 3}
+    trailPrefab: {fileID: 5532239473382786443, guid: 73760cbbfc5249a4ebeec0889bf226dd, type: 3}
+    skinType: 0
+    isNew: 0

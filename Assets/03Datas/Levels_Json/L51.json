@@ -1,0 +1,192 @@
+{
+    "designOrthoSize": 0.0,
+    "designAspectRatio": 0.0,
+    "hasSpear": true,
+    "spear": {
+        "spearIndex": 0,
+        "position": {
+            "x": -1.3799999952316285,
+            "y": -0.27000001072883608
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 269.97344970703127
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "gravityScale": 0.0
+    },
+    "enemySpears": [],
+    "characters": [
+        {
+            "characterIndex": 0,
+            "animationState": "Final/idle_jump_4",
+            "position": {
+                "x": -1.2356075048446656,
+                "y": 1.5725584030151368
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.15000000596046449,
+                "y": 0.15000000596046449
+            },
+            "gravityScale": 1.0,
+            "moveType": 3,
+            "usePhysicsFall": false,
+            "moveDistance": 2.0,
+            "moveDuration": 2.0,
+            "waitTime": 0.0,
+            "moveTargetPoint": {
+                "x": -2.4730865955352785,
+                "y": 3.3819656372070314
+            },
+            "spawnCount": 0,
+            "spawnRadius": 0.0,
+            "spawnForce": 0.0,
+            "childSizeMultiplier": 0.0,
+            "numberTeleport": 0,
+            "wizard1PointB": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "characterIndex": 0,
+            "animationState": "Final/idle_jump_4",
+            "position": {
+                "x": 1.41842520236969,
+                "y": 1.6906620264053345
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.11999999731779099,
+                "y": 0.11999999731779099
+            },
+            "gravityScale": 1.0,
+            "moveType": 3,
+            "usePhysicsFall": false,
+            "moveDistance": 2.0,
+            "moveDuration": 2.0,
+            "waitTime": 0.0,
+            "moveTargetPoint": {
+                "x": 2.417419672012329,
+                "y": 3.557882070541382
+            },
+            "spawnCount": 0,
+            "spawnRadius": 0.0,
+            "spawnForce": 0.0,
+            "childSizeMultiplier": 0.0,
+            "numberTeleport": 0,
+            "wizard1PointB": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "characterIndex": 0,
+            "animationState": "Final/idle_jump_4",
+            "position": {
+                "x": 1.5227309465408326,
+                "y": -3.141282796859741
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.15000000596046449,
+                "y": 0.15000000596046449
+            },
+            "gravityScale": 1.0,
+            "moveType": 3,
+            "usePhysicsFall": false,
+            "moveDistance": 2.0,
+            "moveDuration": 2.0,
+            "waitTime": 0.0,
+            "moveTargetPoint": {
+                "x": 2.892397880554199,
+                "y": -2.141845226287842
+            },
+            "spawnCount": 0,
+            "spawnRadius": 0.0,
+            "spawnForce": 0.0,
+            "childSizeMultiplier": 0.0,
+            "numberTeleport": 0,
+            "wizard1PointB": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "characterIndex": 0,
+            "animationState": "Final/idle_jump_4",
+            "position": {
+                "x": -1.484831690788269,
+                "y": -3.0679931640625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.11999999731779099,
+                "y": 0.11999999731779099
+            },
+            "gravityScale": 1.0,
+            "moveType": 3,
+            "usePhysicsFall": false,
+            "moveDistance": 2.0,
+            "moveDuration": 2.0,
+            "waitTime": 0.0,
+            "moveTargetPoint": {
+                "x": -2.8425135612487795,
+                "y": -2.124253988265991
+            },
+            "spawnCount": 0,
+            "spawnRadius": 0.0,
+            "spawnForce": 0.0,
+            "childSizeMultiplier": 0.0,
+            "numberTeleport": 0,
+            "wizard1PointB": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ],
+    "obstacles": [],
+    "powerUps": [
+        {
+            "powerUpIndex": 3,
+            "position": {
+                "x": 0.04106757417321205,
+                "y": -0.23999999463558198
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.4000000059604645,
+                "y": 0.4000000059604645
+            },
+            "gravityScale": 0.0
+        }
+    ],
+    "decorObjects": [],
+    "groundSpriteShapes": [],
+    "mouseHoles": []
+}

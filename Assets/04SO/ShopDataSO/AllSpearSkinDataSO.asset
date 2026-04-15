@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f434546fd78fdb4faf473a40399c48c, type: 3}
+  m_Name: AllSpearSkinDataSO
+  m_EditorClassIdentifier: 
+  allSpearSkinDataList:
+  - skinName: Slice Spear
+    skinNameID: Knife_1
+    skinSprite: {fileID: 21300000, guid: aad6d0894d4352e4cb8ed7b38a006fe6, type: 3}
+    deadSprite: {fileID: 21300000, guid: 6d2980b05a165c740959dbe67ea3d588, type: 3}
+    skinInRewardUI: {fileID: 0}
+    skinType: 2
+    isNew: 0
+    unlockLevel: 0
+    spearType: 1
+  - skinName: Fire Spear
+    skinNameID: Fire/Knife_1
+    skinSprite: {fileID: 21300000, guid: f3e02adc6d36097409c4e4e953b383d2, type: 3}
+    deadSprite: {fileID: 21300000, guid: 77c629bc3efdbf140a7e2b4aae51a5db, type: 3}
+    skinInRewardUI: {fileID: 21300000, guid: 75aa4e8e4dc10e348b715ade224df51f, type: 3}
+    skinType: 1
+    isNew: 0
+    unlockLevel: 100
+    spearType: 6
+  - skinName: Thunder Spear
+    skinNameID: Thunder/Knife_1
+    skinSprite: {fileID: 21300000, guid: cf7fe59bfa7c04c47a2cf85a5697afb0, type: 3}
+    deadSprite: {fileID: 21300000, guid: 6893f473b6a347e409c646258dc5b718, type: 3}
+    skinInRewardUI: {fileID: 21300000, guid: ecd90787e25c9d34d9e02058f1d6f20e, type: 3}
+    skinType: 1
+    isNew: 0
+    unlockLevel: 200
+    spearType: 4
+  - skinName: Ink Spear
+    skinNameID: butlong/Knife_1
+    skinSprite: {fileID: 21300000, guid: f536f164dc28c10489dce1db6da3d89f, type: 3}
+    deadSprite: {fileID: 21300000, guid: 6d2980b05a165c740959dbe67ea3d588, type: 3}
+    skinInRewardUI: {fileID: 21300000, guid: dc8c8434378c464488f60b17999a1aa2, type: 3}
+    skinType: 1
+    isNew: 1
+    unlockLevel: 0
+    spearType: 1
+  - skinName: Dark Spear
+    skinNameID: darkknight/Knife_1
+    skinSprite: {fileID: 21300000, guid: 3b4254dfbe8b5b0428e33cea083eeb7c, type: 3}
+    deadSprite: {fileID: 21300000, guid: 77c629bc3efdbf140a7e2b4aae51a5db, type: 3}
+    skinInRewardUI: {fileID: 21300000, guid: 4a61bb6a80886c540b09b54a046bc2c3, type: 3}
+    skinType: 2
+    isNew: 0
+    unlockLevel: 0
+    spearType: 6
+  - skinName: Poseidon Spear
+    skinNameID: poseidon/Knife_1
+    skinSprite: {fileID: 21300000, guid: 65945457a5aaa414b96bbff9a05f5bbe, type: 3}
+    deadSprite: {fileID: 21300000, guid: 6893f473b6a347e409c646258dc5b718, type: 3}
+    skinInRewardUI: {fileID: 21300000, guid: 228b881e2efcc454c84b18e523db9487, type: 3}
+    skinType: 2
+    isNew: 0
+    unlockLevel: 0
+    spearType: 4
+  - skinName: Royal Spear
+    skinNameID: hoanggia/Knife_1
+    skinSprite: {fileID: 21300000, guid: 52401a593aa281d458475e6c9bcab509, type: 3}
+    deadSprite: {fileID: 21300000, guid: 6d2980b05a165c740959dbe67ea3d588, type: 3}
+    skinInRewardUI: {fileID: 21300000, guid: dc3385b0eb93e2e46947deaf9979d267, type: 3}
+    skinType: 2
+    isNew: 0
+    unlockLevel: 0
+    spearType: 1

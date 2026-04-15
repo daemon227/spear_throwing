@@ -1,0 +1,4 @@
+# v1.0
+- Add Connector for AdsManager and RemoteConfig
+# v1.0.1
+- Refactor AdsManager's events to AdsEvents

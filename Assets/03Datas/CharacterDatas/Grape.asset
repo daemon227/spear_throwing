@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91f118480dfaea546aab9042628dc540, type: 3}
+  m_Name: Grape
+  m_EditorClassIdentifier: 
+  bloodEffectPrefab: {fileID: 60179286493874214, guid: 7d362add5dc00ff458b599076c7b7f1d, type: 3}
+  bloodEffectColor: {r: 1, g: 0, b: 0.6459122, a: 1}
+  burnEffectPrefab: {fileID: 1830307625849735959, guid: 1f5bd32b7870b58408f0daa81e4230ea, type: 3}
+  soulPrefab: {fileID: 8753091599403753881, guid: 458307961485fb345b99eb749e9b6620, type: 3}
+  slideVerticalPrefabs:
+  - {fileID: 6549823621183305942, guid: 15c9556c1ecd9aa4e9873d05d60a21d6, type: 3}
+  - {fileID: 3044413267632317112, guid: e2123713efa39e1409416a0bd9950930, type: 3}
+  slideHorizontalPrefabs:
+  - {fileID: 7227725353517436813, guid: 3c201b73681725943b035da71830b3bd, type: 3}
+  - {fileID: 1205552046483959353, guid: 6833bddeac79507438c1d0a60e32c983, type: 3}
+  bodyMultiplier: 1

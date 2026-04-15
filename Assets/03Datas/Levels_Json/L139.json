@@ -1,0 +1,478 @@
+{
+    "designOrthoSize": 0.0,
+    "designAspectRatio": 0.0,
+    "hasSpear": true,
+    "spear": {
+        "spearIndex": 0,
+        "position": {
+            "x": -0.7099999785423279,
+            "y": -3.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "gravityScale": 0.0
+    },
+    "enemySpears": [
+        {
+            "spearIndex": 2,
+            "position": {
+                "x": -1.4500000476837159,
+                "y": -0.7900000214576721
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 304.1719055175781
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "gravityScale": 0.0
+        },
+        {
+            "spearIndex": 2,
+            "position": {
+                "x": 1.25,
+                "y": 0.9399999976158142
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 106.61077117919922
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "gravityScale": 0.0
+        }
+    ],
+    "characters": [],
+    "obstacles": [
+        {
+            "obstacleIndex": 5,
+            "position": {
+                "x": -1.2699999809265137,
+                "y": 2.6500000953674318
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.4000000059604645,
+                "y": 0.4000000059604645
+            },
+            "moveType": 0,
+            "moveDistance": 0.0,
+            "moveDuration": 0.0,
+            "waitTime": 0.0,
+            "gravityScale": 0.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0,
+            "ballId": 0,
+            "vehicalMoveMode": 0,
+            "vehicalPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "vehicalCurveHeight": 0.0,
+            "vehicalUsePhysicsFall": false,
+            "vehicalEnemyPosOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "obstacleIndex": 5,
+            "position": {
+                "x": 1.2699999809265137,
+                "y": -2.9800000190734865
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 0.4000000059604645,
+                "y": 0.4000000059604645
+            },
+            "moveType": 0,
+            "moveDistance": 0.0,
+            "moveDuration": 0.0,
+            "waitTime": 0.0,
+            "gravityScale": 0.0,
+            "windForce": 0.0,
+            "windRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "windTransformOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "jumpForce": 0.0,
+            "ballonEnemyFollowOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "portalID": 0,
+            "linkedPortalID": 0,
+            "appearDelay": 0.0,
+            "portalMoveSpeed": 0.0,
+            "washingMachineCharacterType": 0,
+            "washingMachineCount": 0,
+            "washingMachineScale": 0.0,
+            "eggEnemyLocalPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "eggTopMoveDistance": 0.0,
+            "eggTopMoveDuration": 0.0,
+            "ballMoveMode": 0,
+            "ballPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ballCurveHeight": 0.0,
+            "ballId": 0,
+            "vehicalMoveMode": 0,
+            "vehicalPointB": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "vehicalCurveHeight": 0.0,
+            "vehicalUsePhysicsFall": false,
+            "vehicalEnemyPosOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ],
+    "powerUps": [],
+    "decorObjects": [],
+    "groundSpriteShapes": [
+        {
+            "groundSpriteShapeIndex": 0,
+            "position": {
+                "x": -0.44999998807907107,
+                "y": 1.8329999446868897
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 19.728792190551759
+            },
+            "scale": {
+                "x": 0.3391999900341034,
+                "y": 0.32760000228881838
+            },
+            "points": [
+                {
+                    "position": {
+                        "x": 0.05185383930802345,
+                        "y": -3.719184398651123,
+                        "z": 0.0
+                    },
+                    "leftTangent": {
+                        "x": 0.25449642539024355,
+                        "y": -0.0002288818359375,
+                        "z": 0.0
+                    },
+                    "rightTangent": {
+                        "x": -0.2487848550081253,
+                        "y": 0.00022339820861816406,
+                        "z": 0.0
+                    },
+                    "tangentMode": 1,
+                    "height": 1.0,
+                    "corner": true
+                },
+                {
+                    "position": {
+                        "x": -2.4252867698669435,
+                        "y": -1.5612393617630005,
+                        "z": 0.0
+                    },
+                    "leftTangent": {
+                        "x": 0.5279368162155151,
+                        "y": -1.0727499723434449,
+                        "z": 0.0
+                    },
+                    "rightTangent": {
+                        "x": -0.6131091117858887,
+                        "y": 1.2364705801010132,
+                        "z": 0.0
+                    },
+                    "tangentMode": 1,
+                    "height": 1.0,
+                    "corner": true
+                },
+                {
+                    "position": {
+                        "x": -2.0,
+                        "y": 0.9999998807907105,
+                        "z": 0.0
+                    },
+                    "leftTangent": {
+                        "x": -0.5247161388397217,
+                        "y": -0.11808890104293823,
+                        "z": 0.0
+                    },
+                    "rightTangent": {
+                        "x": 1.4154199361801148,
+                        "y": 0.3185443878173828,
+                        "z": 0.0
+                    },
+                    "tangentMode": 1,
+                    "height": 1.0,
+                    "corner": true
+                },
+                {
+                    "position": {
+                        "x": 0.31614169478416445,
+                        "y": -0.21857763826847077,
+                        "z": 0.0
+                    },
+                    "leftTangent": {
+                        "x": -0.4997824728488922,
+                        "y": -0.638405442237854,
+                        "z": 0.0
+                    },
+                    "rightTangent": {
+                        "x": 0.7261310815811157,
+                        "y": 0.9275359511375427,
+                        "z": 0.0
+                    },
+                    "tangentMode": 1,
+                    "height": 1.0,
+                    "corner": true
+                },
+                {
+                    "position": {
+                        "x": 1.999999761581421,
+                        "y": 0.9999998807907105,
+                        "z": 0.0
+                    },
+                    "leftTangent": {
+                        "x": -0.45380330085754397,
+                        "y": 0.011430740356445313,
+                        "z": 0.0
+                    },
+                    "rightTangent": {
+                        "x": 1.4210178852081299,
+                        "y": -0.03579354286193848,
+                        "z": 0.0
+                    },
+                    "tangentMode": 1,
+                    "height": 1.0,
+                    "corner": true
+                },
+                {
+                    "position": {
+                        "x": 2.5190024375915529,
+                        "y": -1.5820562839508057,
+                        "z": 0.0
+                    },
+                    "leftTangent": {
+                        "x": 0.6188924312591553,
+                        "y": 1.215334177017212,
+                        "z": 0.0
+                    },
+                    "rightTangent": {
+                        "x": -0.5563066005706787,
+                        "y": -1.100294589996338,
+                        "z": 0.0
+                    },
+                    "tangentMode": 1,
+                    "height": 1.0,
+                    "corner": true
+                }
+            ]
+        },
+        {
+            "groundSpriteShapeIndex": 0,
+            "position": {
+                "x": 0.7300000190734863,
+                "y": -1.1299999952316285
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 338.97259521484377
+            },
+            "scale": {
+                "x": 0.2513471841812134,
+                "y": 0.23213735222816468
+            },
+            "points": [
+                {
+                    "position": {
+                        "x": 0.05185383930802345,
+                        "y": -3.719184398651123,
+                        "z": 0.0
+                    },
+                    "leftTangent": {
+                        "x": 0.25449642539024355,
+                        "y": -0.0002288818359375,
+                        "z": 0.0
+                    },
+                    "rightTangent": {
+                        "x": -0.2487848550081253,
+                        "y": 0.00022339820861816406,
+                        "z": 0.0
+                    },
+                    "tangentMode": 1,
+                    "height": 1.0,
+                    "corner": true
+                },
+                {
+                    "position": {
+                        "x": -2.4252867698669435,
+                        "y": -1.5612393617630005,
+                        "z": 0.0
+                    },
+                    "leftTangent": {
+                        "x": 0.5279368162155151,
+                        "y": -1.0727499723434449,
+                        "z": 0.0
+                    },
+                    "rightTangent": {
+                        "x": -0.6131091117858887,
+                        "y": 1.2364705801010132,
+                        "z": 0.0
+                    },
+                    "tangentMode": 1,
+                    "height": 1.0,
+                    "corner": true
+                },
+                {
+                    "position": {
+                        "x": -2.0,
+                        "y": 0.9999998807907105,
+                        "z": 0.0
+                    },
+                    "leftTangent": {
+                        "x": -0.5247161388397217,
+                        "y": -0.11808890104293823,
+                        "z": 0.0
+                    },
+                    "rightTangent": {
+                        "x": 1.4154199361801148,
+                        "y": 0.3185443878173828,
+                        "z": 0.0
+                    },
+                    "tangentMode": 1,
+                    "height": 1.0,
+                    "corner": true
+                },
+                {
+                    "position": {
+                        "x": 0.31614169478416445,
+                        "y": -0.21857763826847077,
+                        "z": 0.0
+                    },
+                    "leftTangent": {
+                        "x": -0.4997824728488922,
+                        "y": -0.638405442237854,
+                        "z": 0.0
+                    },
+                    "rightTangent": {
+                        "x": 0.7261310815811157,
+                        "y": 0.9275359511375427,
+                        "z": 0.0
+                    },
+                    "tangentMode": 1,
+                    "height": 1.0,
+                    "corner": true
+                },
+                {
+                    "position": {
+                        "x": 1.999999761581421,
+                        "y": 0.9999998807907105,
+                        "z": 0.0
+                    },
+                    "leftTangent": {
+                        "x": -0.45380330085754397,
+                        "y": 0.011430740356445313,
+                        "z": 0.0
+                    },
+                    "rightTangent": {
+                        "x": 1.4210178852081299,
+                        "y": -0.03579354286193848,
+                        "z": 0.0
+                    },
+                    "tangentMode": 1,
+                    "height": 1.0,
+                    "corner": true
+                },
+                {
+                    "position": {
+                        "x": 2.5190024375915529,
+                        "y": -1.5820562839508057,
+                        "z": 0.0
+                    },
+                    "leftTangent": {
+                        "x": 0.6188924312591553,
+                        "y": 1.215334177017212,
+                        "z": 0.0
+                    },
+                    "rightTangent": {
+                        "x": -0.5563066005706787,
+                        "y": -1.100294589996338,
+                        "z": 0.0
+                    },
+                    "tangentMode": 1,
+                    "height": 1.0,
+                    "corner": true
+                }
+            ]
+        }
+    ],
+    "mouseHoles": []
+}

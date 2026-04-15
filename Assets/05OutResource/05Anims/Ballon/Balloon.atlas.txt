@@ -1,0 +1,7 @@
+Balloon.png
+size:527,766
+filter:Linear,Linear
+pma:true
+Balloon
+bounds:2,2,523,762
+offsets:0,17,523,779

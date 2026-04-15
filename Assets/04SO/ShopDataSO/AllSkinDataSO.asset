@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f34f99ab4537364b833e95cab58bd33, type: 3}
+  m_Name: AllSkinDataSO
+  m_EditorClassIdentifier: 
+  allSkinDataList:
+  - skinName: Normal
+    skinNameID: Normal
+    skinType: 0
+    skinSprite: {fileID: 21300000, guid: 8dbe553e7b067a049a662e8ed4ee2cdd, type: 3}
+    isNew: 0
+  - skinName: Bikini
+    skinNameID: Bikini2
+    skinType: 1
+    skinSprite: {fileID: 21300000, guid: 05c9a3400bc0c7a4ca00a3bf80743d46, type: 3}
+    isNew: 0
+  - skinName: Bikini1
+    skinNameID: Bikini1
+    skinType: 0
+    skinSprite: {fileID: 21300000, guid: 4b154dbd9822c064790e5b5ac758fd8c, type: 3}
+    isNew: 0
+  - skinName: Elsa
+    skinNameID: Elsa
+    skinType: 1
+    skinSprite: {fileID: 21300000, guid: 7735eaf8615c8c549b0e069a218948a6, type: 3}
+    isNew: 0
+  - skinName: Songoku
+    skinNameID: Songoku
+    skinType: 2
+    skinSprite: {fileID: 21300000, guid: aa79baebf32e09346884666236fd065c, type: 3}
+    isNew: 1
+  - skinName: Vegeta
+    skinNameID: Vegeta
+    skinType: 1
+    skinSprite: {fileID: 21300000, guid: 55dfb0f4e8e987c4db56e1c232ba0a67, type: 3}
+    isNew: 0
+  - skinName: MCJS
+    skinNameID: MCJS
+    skinType: 1
+    skinSprite: {fileID: 21300000, guid: 0caf329bc496b8646807555124a7c9a6, type: 3}
+    isNew: 0
+  - skinName: Darth Vader
+    skinNameID: Darth Vader
+    skinType: 2
+    skinSprite: {fileID: 21300000, guid: 511c15128f038ef47b23f0149df28e72, type: 3}
+    isNew: 1
+  - skinName: Sparrow
+    skinNameID: Sparrow
+    skinType: 0
+    skinSprite: {fileID: 21300000, guid: 4f538312db4f2a041accdc1b371a8075, type: 3}
+    isNew: 1
+  - skinName: Farmer
+    skinNameID: Farmer
+    skinType: 0
+    skinSprite: {fileID: 21300000, guid: 55977fe4e15b819488eb053d8e4b5eb8, type: 3}
+    isNew: 0
+  - skinName: Chef
+    skinNameID: Chef
+    skinType: 1
+    skinSprite: {fileID: 21300000, guid: 2f131fbe99f04b0419fced761c05d301, type: 3}
+    isNew: 0
+  - skinName: Nasa
+    skinNameID: Nasa
+    skinType: 2
+    skinSprite: {fileID: 21300000, guid: e6bc01bcfc2ea1040905aebd25d67344, type: 3}
+    isNew: 0
+  - skinName: Einstein
+    skinNameID: Einstein
+    skinType: 1
+    skinSprite: {fileID: 21300000, guid: d61e846d2d63e9243be622f0624a5632, type: 3}
+    isNew: 0
+  - skinName: Nurse
+    skinNameID: Nurse
+    skinType: 0
+    skinSprite: {fileID: 21300000, guid: f8b9401ba6dfc1d4ca41d66dc8060af5, type: 3}
+    isNew: 0
+  - skinName: Artist
+    skinNameID: Artist
+    skinType: 0
+    skinSprite: {fileID: 21300000, guid: 2458a1e075863a44a8bfb1a50ffecd2a, type: 3}
+    isNew: 0
+  - skinName: Police
+    skinNameID: Police
+    skinType: 1
+    skinSprite: {fileID: 21300000, guid: fb0dd5fa8fd354a47bafee3d79225d7a, type: 3}
+    isNew: 0
+  - skinName: Spiderman
+    skinNameID: Spiderman
+    skinType: 2
+    skinSprite: {fileID: 21300000, guid: da6a2b99d1469a845a74423072cef2bc, type: 3}
+    isNew: 1
+  - skinName: Sup
+    skinNameID: Sup
+    skinType: 1
+    skinSprite: {fileID: 21300000, guid: c895ed0f7d81ff0469aaa343e4bb6a9c, type: 3}
+    isNew: 0
+  - skinName: Batman
+    skinNameID: Batman
+    skinType: 0
+    skinSprite: {fileID: 21300000, guid: 95530c03d8d6ddf459ff02fe15250026, type: 3}
+    isNew: 1
+  - skinName: Baby
+    skinNameID: Baby
+    skinType: 0
+    skinSprite: {fileID: 21300000, guid: e648ead2f910ad840ab44243ee42d954, type: 3}
+    isNew: 0
+  - skinName: Hawaiian
+    skinNameID: Hawaiian
+    skinType: 0
+    skinSprite: {fileID: 21300000, guid: ede3396f4515e0846a2705056eae6db7, type: 3}
+    isNew: 0
+  - skinName: Messi
+    skinNameID: Messi
+    skinType: 2
+    skinSprite: {fileID: 21300000, guid: e75f9fffbd9892d4fb4aeb63e036d894, type: 3}
+    isNew: 1
+  - skinName: Ronaldo
+    skinNameID: Ronaldo
+    skinType: 2
+    skinSprite: {fileID: 21300000, guid: aa7e3dc731dd0b743a47df94ea13a90b, type: 3}
+    isNew: 1
+  - skinName: Noel
+    skinNameID: Noel
+    skinType: 1
+    skinSprite: {fileID: 21300000, guid: 4625879508f441748ad8dca9581a61fe, type: 3}
+    isNew: 1
+  - skinName: Pajamas
+    skinNameID: Pajamas
+    skinType: 0
+    skinSprite: {fileID: 21300000, guid: 96619652c8e9c0640b4234a0ee4f2426, type: 3}
+    isNew: 1
+  - skinName: Samba
+    skinNameID: Samba
+    skinType: 1
+    skinSprite: {fileID: 21300000, guid: a9cd782bbe00dd74bbb991d54b45e133, type: 3}
+    isNew: 0
+  - skinName: Chongchong
+    skinNameID: Chongchong
+    skinType: 0
+    skinSprite: {fileID: 21300000, guid: 53c48002902ba344c85c05136b304192, type: 3}
+    isNew: 0
+  - skinName: Party
+    skinNameID: Party
+    skinType: 0
+    skinSprite: {fileID: 21300000, guid: fcefb3da9c1a74741ae5a1103785879f, type: 3}
+    isNew: 0
+  - skinName: Luffy
+    skinNameID: Luffy
+    skinType: 0
+    skinSprite: {fileID: 21300000, guid: 7ff172e9eabf9f84bab96174e802ebab, type: 3}
+    isNew: 0

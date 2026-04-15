@@ -1,0 +1,54 @@
+# v3.3.7
+- Enable/Disable AppOpenAd
+# v3.4
+- Refactor code
+# v3.4.1
+- Add Assembly Define
+# v4.0
+- Big API update and refactor code
+- Add supporting MREC ad format
+# v4.1
+- Add mediation name for from AdInfo for Interstitial, Rewarded
+# v4.2
+- Refactor Ad event params to AdInfo and AdError
+# v4.3
+- Refactor events to AdEvents
+# v4.3.1
+- Add event for Banner Present
+# v4.4.0
+- update API for Ironsource and Admob
+
+# v4.5.0
+- fix bugs for supporting iOS
+
+# v4.5.1
+- add API for loading Rewarded Ad failed event
+- add API for loading Rewarded Ad succeed event
+- add API for showing Rewarded ad Ready event
+- add API for showing Rewarded ad not Ready event
+- add API for loading Interstitial Ad failed event
+- add API for loading Interstitial Ad succeed event
+- add API for showing Interstitial Ready event
+- add API for showing Interstitial not Ready event
+
+# v4.5.2
+- refactor code
+# v4.6.0
+- add support Admob Collapsible Banner
+
+# v4.6.1
+- remove redundancy code
+# v4.6.2
+- fix bugs DEBUG_ADS predefine
+# v4.7.0
+- fix bugs Collapsible Banner Auto Load Ad
+# v4.7.1
+- remove IPlacement
+# v4.7.2
+- fix bug Collap Banner divide by 1000000
+# v4.8.0
+- add Admob Image Interstitial replace for MAX App open Ad
+# v4.8.1
+- destroy Collapsible Banner after close
+# v4.9.0
+- add Admob Native Ad for faking Interstitial (FakeInterstitial)

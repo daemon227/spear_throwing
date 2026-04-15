@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adbc1fb67bc4cbe43ae1bf77a49cc6e9, type: 3}
+  m_Name: CharacterPrefabAllSO
+  m_EditorClassIdentifier: 
+  picklePrefab: {fileID: 3415702842756444299, guid: f6326487b425b354796868e73fc2a38c, type: 3}
+  bananaPrefab: {fileID: 3415702842756444299, guid: 086aa3c774679984898cb53f4ceeadb1, type: 3}
+  grapePrefab: {fileID: 0}
+  watermelonPrefab: {fileID: 0}

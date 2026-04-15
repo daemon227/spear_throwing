@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78331886e32f4414fb33a31987fde51a, type: 3}
+  m_Name: AllPowerupDataSO
+  m_EditorClassIdentifier: 
+  PowerUpDatas:
+  - PowerupID: 0
+    PowerupName: 
+    powerupImage: {fileID: 21300000, guid: 06d643140cedc444694548e538acf1ea, type: 3}
+    powerupPrefab: {fileID: 3469861559475342345, guid: 45a29f66be901d449b3f46bbe2794271, type: 3}
+  - PowerupID: 1
+    PowerupName: 
+    powerupImage: {fileID: 21300000, guid: 3e3238322a70c6a41a37deb2418cc919, type: 3}
+    powerupPrefab: {fileID: 5426956262171032355, guid: 4b2abc30e272c7a4c9ba492bbc4def08, type: 3}
+  - PowerupID: 2
+    PowerupName: 
+    powerupImage: {fileID: 21300000, guid: 74ca1d8be352f1e47a6c444d2afb1e07, type: 3}
+    powerupPrefab: {fileID: 7175672701309490615, guid: cf74d093291ce5e48b95f2f949005a1a, type: 3}
+  - PowerupID: 3
+    PowerupName: 
+    powerupImage: {fileID: 21300000, guid: 458b294014c69cb478440f127d41af08, type: 3}
+    powerupPrefab: {fileID: 1936284939688169612, guid: f158757f42616cf4194bcfca5d0340f6, type: 3}
+  - PowerupID: 4
+    PowerupName: 
+    powerupImage: {fileID: 21300000, guid: a4707ac070767db43bf9ca1a78fa3926, type: 3}
+    powerupPrefab: {fileID: 6650781490189005656, guid: 207d08a743f6076499b6c0d7008570fe, type: 3}

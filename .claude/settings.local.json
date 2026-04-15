@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(python3:*)",
+      "Bash(node:*)",
+      "Bash(wsl node:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(xargs head -c 500)",
+      "Bash(powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"D:\\\\UnityProject\\\\Spring-Spear\\\\inspect_spine.ps1\")",
+      "Bash(find \"d:\\\\UnityProject\\\\Spring-Spear\\\\Assets\\\\01Scripts\\\\Game\\\\06UI\"\" -type f -name \"*.cs \")",
+      "Bash(sort -t_ -k2 -n)",
+      "Bash(__NEW_LINE_d8528159462f8f5e__ echo \"=== Remaining C_ Prefab files ===\")",
+      "Bash(__NEW_LINE_c39480327d36f6c3__ echo \"\")",
+      "Bash(__NEW_LINE_e5f8fae64543dfac__ echo \"\")",
+      "Bash(__NEW_LINE_5596770b06adf6a1__ echo \"\")",
+      "Bash(xargs -I{} basename {})"
+    ]
+  }
+}

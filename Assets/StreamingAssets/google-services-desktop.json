@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997821612194",
+    "project_id": "spring-spear-new",
+    "storage_bucket": "spring-spear-new.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997821612194:android:1dd0c7db46a05bd4f197fb",
+        "android_client_info": {
+          "package_name": "com.spear.throwing.aim.hit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB3Jm4cn7mlHDJ8Vi0qy3fBJRzK1P4LG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+imported.png
+size:330,330
+filter:Linear,Linear
+pma:true
+scale:0.5
+Body
+bounds:2,164,157,164
+Charac_1
+bounds:206,90,86,79
+Charac_2
+bounds:209,13,77,75
+Charac_3
+bounds:129,74,88,75
+rotate:90
+Charac_4
+bounds:129,21,51,78
+rotate:90
+Charac_5
+bounds:281,242,41,86
+Head
+bounds:161,171,167,39
+nap may giat
+bounds:2,37,125,125
+shadow
+bounds:161,212,118,116

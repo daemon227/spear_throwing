@@ -1,0 +1,13 @@
+race car.png
+size:621,621
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,450,617,169
+stick
+bounds:127,374,19,74
+vietnam Flag
+bounds:2,242,97,80
+wheel
+bounds:2,324,123,124
+offsets:1,1,125,126

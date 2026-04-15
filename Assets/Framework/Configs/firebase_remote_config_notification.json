@@ -1,0 +1,110 @@
+{
+  "conditions": [],
+  "parameters": {
+    "MediationDataSegment": {
+      "defaultValue": {
+        "value": ""
+      },
+      "description": "Mediation data segment",
+      "valueType": "STRING"
+    },
+    "AdminTool": {
+      "defaultValue": {
+        "value": "true"
+      },
+      "description": "Enable/Disable Admin Tool",
+      "valueType": "BOOLEAN"
+    },
+    "AdsConfig": {
+      "defaultValue": {
+        "value": "{\"Banner\":{\"Enable\":true,\"Day\":0,\"Level\":0},\"Interstitial\":{\"Enable\":true,\"Day\":0,\"Level\":9,\"Cooldown\":15},\"Reward\":{\"Enable\":true,\"Day\":0,\"Level\":0},\"Mrec\":{\"Enable\":true,\"Day\":0,\"Level\":0},\"AOA\":{\"Enable\":true,\"Day\":0,\"Level\":9}}"
+      },
+      "description": "Ads configuration (Banner, Interstitial, Reward, MREC, AOA)",
+      "valueType": "JSON"
+    },
+    "RemoveAdConfig": {
+      "defaultValue": {
+        "value": "{\"Enable\":true,\"FirstSaleInter\":20,\"FirstSaleDay\":3,\"LastSaleInter\":50,\"LastSaleDay\":7,\"Duration\":0,\"RemoveInter\":true,\"RemoveBanner\":true,\"RemoveMREC\":true,\"RemoveAOA\":true,\"BonusCoin\":5000,\"EnableRemind\":true,\"CountDownRemind\":30}"
+      },
+      "description": "Remove Ads popup configuration",
+      "valueType": "JSON"
+    },
+    "CharacterSkinPrices": {
+      "defaultValue": {
+        "value": "300,500"
+      },
+      "description": "Gia skin nhan vat (comma-separated)",
+      "valueType": "STRING"
+    },
+    "SpearSkinPrices": {
+      "defaultValue": {
+        "value": "2000,5000"
+      },
+      "description": "Gia skin spear (comma-separated)",
+      "valueType": "STRING"
+    },
+    "TrailSkinPrices": {
+      "defaultValue": {
+        "value": "500,800"
+      },
+      "description": "Gia skin trail (comma-separated)",
+      "valueType": "STRING"
+    },
+    "CoinPerCoin": {
+      "defaultValue": {
+        "value": "5"
+      },
+      "description": "So coin nhan duoc moi coin",
+      "valueType": "NUMBER"
+    },
+    "CoinClaimWinLevel": {
+      "defaultValue": {
+        "value": "80"
+      },
+      "description": "Coin nhan khi thang level",
+      "valueType": "NUMBER"
+    },
+    "Coin30": {
+      "defaultValue": {
+        "value": "200"
+      },
+      "description": "Coin goi 30",
+      "valueType": "NUMBER"
+    },
+    "Coin60": {
+      "defaultValue": {
+        "value": "350"
+      },
+      "description": "Coin goi 60",
+      "valueType": "NUMBER"
+    },
+    "Coin100": {
+      "defaultValue": {
+        "value": "500"
+      },
+      "description": "Coin goi 100",
+      "valueType": "NUMBER"
+    },
+    "LevelUnlockOffer": {
+      "defaultValue": {
+        "value": "5"
+      },
+      "description": "Level unlock offer",
+      "valueType": "NUMBER"
+    },
+    "NotificationSchedule": {
+      "defaultValue": {
+        "value": "12,36,60,84,108,130,132,154,156"
+      },
+      "description": "Danh sach week-hour hien Notification (0=Mon 0h, 24=Tue 0h, 167=Sun 23h). Default: 12h Mon-Fri + 10h,12h Sat-Sun",
+      "valueType": "STRING"
+    },
+    "NotificationMaxDaily": {
+      "defaultValue": {
+        "value": "2"
+      },
+      "description": "So Notification toi da moi ngay",
+      "valueType": "NUMBER"
+    }
+  }
+}

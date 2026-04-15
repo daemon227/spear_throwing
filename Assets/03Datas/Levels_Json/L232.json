@@ -1,0 +1,81 @@
+{
+    "designOrthoSize": 0.0,
+    "designAspectRatio": 0.0,
+    "hasSpear": true,
+    "spear": {
+        "spearIndex": 0,
+        "position": {
+            "x": -1.5109862089157105,
+            "y": 0.2745382487773895
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 302.2110290527344
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "gravityScale": 0.0
+    },
+    "enemySpears": [
+        {
+            "spearIndex": 2,
+            "position": {
+                "x": -0.30000001192092898,
+                "y": -3.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "gravityScale": 0.0
+        },
+        {
+            "spearIndex": 2,
+            "position": {
+                "x": 1.4600000381469727,
+                "y": -0.09000000357627869
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "gravityScale": 0.0
+        },
+        {
+            "spearIndex": 2,
+            "position": {
+                "x": 1.454100251197815,
+                "y": -3.080660581588745
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 21.48949432373047
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "gravityScale": 0.0
+        }
+    ],
+    "characters": [],
+    "obstacles": [],
+    "powerUps": [],
+    "decorObjects": [],
+    "groundSpriteShapes": [],
+    "mouseHoles": []
+}

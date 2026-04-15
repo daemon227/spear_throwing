@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b004e1c120e5db40a29dc698b61b76f, type: 3}
+  m_Name: BreakSpearSO
+  m_EditorClassIdentifier: 
+  BreakSpearDatas:
+  - SpearSkinID: Knife_1
+    BreakSprites:
+    - {fileID: 21300000, guid: 1314277786e0d0943a23ccaa2a84e1a8, type: 3}
+    - {fileID: 21300000, guid: a31a04a9ae3f12c44aae75f3b3093ed7, type: 3}
+    - {fileID: 21300000, guid: 08e442f0d098eed49a9f155ee3f6d5ad, type: 3}
+  - SpearSkinID: Fire/Knife_1
+    BreakSprites:
+    - {fileID: 21300000, guid: b67bce0b580eca1429ffd1dedf798b9e, type: 3}
+    - {fileID: 21300000, guid: 9cc6b49d43587614da1a2bc121c3fd08, type: 3}
+    - {fileID: 21300000, guid: 1046132f8f0197c42906d5d6f9217f1c, type: 3}
+  - SpearSkinID: Thunder/Knife_1
+    BreakSprites:
+    - {fileID: 21300000, guid: 3cb2dbb52ecdd3849bbd113de14094e0, type: 3}
+    - {fileID: 21300000, guid: 6b9d365c203c4d5478f8a5fbb3e77c9b, type: 3}
+    - {fileID: 21300000, guid: 76c0df5923748684081c21deacd7204a, type: 3}
+  - SpearSkinID: butlong/Knife_1
+    BreakSprites:
+    - {fileID: 21300000, guid: 6365778a320ec4948b174751bdb02a82, type: 3}
+    - {fileID: 21300000, guid: 3fcaf69a494862b42aae85533f8e79ac, type: 3}
+    - {fileID: 21300000, guid: 075e20e672134d44e9a17ae53a9646e4, type: 3}
+  - SpearSkinID: darkknight/Knife_1
+    BreakSprites:
+    - {fileID: 21300000, guid: ab0639bcb998e93419abcac0891f7427, type: 3}
+    - {fileID: 21300000, guid: 18273ae7f4b1f5d47818374bf0ebf3c3, type: 3}
+    - {fileID: 21300000, guid: a1c3b18a2a4de854899bc439067bbf1f, type: 3}
+  - SpearSkinID: hoanggia/Knife_1
+    BreakSprites:
+    - {fileID: 21300000, guid: dc3950c93a32ae149a0cfbd5dc08271f, type: 3}
+    - {fileID: 21300000, guid: 8d9c4b5bd26f7d44086347c26773fea1, type: 3}
+    - {fileID: 21300000, guid: 8f0b8cd0f04dcbf4f8677196427c0995, type: 3}
+  - SpearSkinID: poseidon/Knife_1
+    BreakSprites:
+    - {fileID: 21300000, guid: 0ef2ed020a15d0a4a8d72d40cb53bc4a, type: 3}
+    - {fileID: 21300000, guid: e31daab9b344e2345bbbda1fa4afcbe7, type: 3}
+    - {fileID: 21300000, guid: 7278f1dbca3271349853dd033f0df2e9, type: 3}

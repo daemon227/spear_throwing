@@ -1,0 +1,8 @@
+# v1.2
+- Refactor code
+# v1.2.1
+- Add Assembly Define
+# v4.0.0
+- Big API update and refactor code
+# v4.1.0
+- refactor for supporting iOS

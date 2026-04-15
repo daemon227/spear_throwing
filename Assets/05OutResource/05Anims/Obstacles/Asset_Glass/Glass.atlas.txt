@@ -1,0 +1,11 @@
+Glass.png
+size:432,135
+filter:Linear,Linear
+pma:true
+Plash
+bounds:291,2,139,131
+offsets:1,1,141,133
+Window
+bounds:2,63,70,287
+offsets:1,1,72,289
+rotate:90

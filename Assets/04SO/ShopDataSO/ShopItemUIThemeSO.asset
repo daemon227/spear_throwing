@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf1fbd6d9b441c9449e965471d9608a9, type: 3}
+  m_Name: ShopItemUIThemeSO
+  m_EditorClassIdentifier: 
+  shopItemUITheme:
+    skinBackGroundSprites:
+    - {fileID: 21300000, guid: 064fb55034dce5f4d9754da2652f568d, type: 3}
+    - {fileID: 21300000, guid: cfb76260e3df81c4c8b709f6783064c1, type: 3}
+    spearSkinBackgroundSprites:
+    - {fileID: 21300000, guid: 72bf50e5f2c513541bdfdb27ecc6de29, type: 3}
+    - {fileID: 21300000, guid: c77d38453ef50dd46b22734e79ad925a, type: 3}
+    buttonSprites:
+    - {fileID: 21300000, guid: 0530e92a0b6d27a4aa93008bae34a9d4, type: 3}
+    - {fileID: 21300000, guid: 0a1a34bd3e16d5a4eb3b7b8bfd4af609, type: 3}
+    - {fileID: 21300000, guid: 0530e92a0b6d27a4aa93008bae34a9d4, type: 3}
